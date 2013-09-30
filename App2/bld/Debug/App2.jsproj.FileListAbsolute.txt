@@ -1,0 +1,10 @@
+c:\users\geoaffl\documents\visual studio 2012\Projects\App2\App2\bin\Debug\resources.pri
+c:\users\geoaffl\documents\visual studio 2012\Projects\App2\App2\bin\Debug\AppxManifest.xml
+c:\users\geoaffl\documents\visual studio 2012\Projects\App2\App2\bin\Debug\App2.build.appxrecipe
+c:\users\geoaffl\documents\visual studio 2012\Projects\App2\App2\bld\Debug\priconfig.xml
+c:\users\geoaffl\documents\visual studio 2012\Projects\App2\App2\bld\Debug\layout.resfiles
+c:\users\geoaffl\documents\visual studio 2012\Projects\App2\App2\bld\Debug\resources.resfiles
+c:\users\geoaffl\documents\visual studio 2012\Projects\App2\App2\bld\Debug\pri.resfiles
+c:\users\geoaffl\documents\visual studio 2012\Projects\App2\App2\bld\Debug\LanguageQualifiers.txt
+c:\users\geoaffl\documents\visual studio 2012\Projects\App2\App2\bld\Debug\ProjectArchitectures.txt
+C:\Users\geoaffl\Documents\Visual Studio 2012\Projects\App2\App2\bld\Debug\App2.jsprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\geoaffl\Documents\Visual Studio 2012\Projects\App2\App2\App2.jsproj;x64
+C:\Users\geoaffl\Documents\Visual Studio 2012\Projects\App2\DAL\DAL.csproj;x64
+C:\Users\geoaffl\Documents\Visual Studio 2012\Projects\App2\DataAccess\DataAccess.csproj;x64
